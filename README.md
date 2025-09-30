@@ -2,6 +2,6 @@
 
 - Web3 Data
 
-- Algorithms and Data Structures (Wait)
+- Algorithms and Data Structures 
 
-- Some Python (Not Basics)
+
