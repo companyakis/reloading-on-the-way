@@ -4,4 +4,6 @@
 
 - Algorithms and Data Structures 
 
+- Statistics
 
+- Time Series
